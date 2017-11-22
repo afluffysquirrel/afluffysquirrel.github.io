@@ -23,7 +23,7 @@ img:hover {
 
 #center-div {
   padding: 20px 0px 20px 0px;
-  background: rgba(0,0,0,.05);
+  background: rgba(256,256,256,.5);
   border-radius: 25px;
   box-shadow: 0px 0px 10px 1px #888888;
   overflow: hidden;
