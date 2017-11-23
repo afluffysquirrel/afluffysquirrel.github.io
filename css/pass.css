@@ -1,0 +1,46 @@
+body {
+  background-image:url("../img/hypnotize.png");
+}
+
+a{
+    color:#000000;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+#center {
+    width:800px;
+    height:400px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-200px 0 0 -400px;
+}
+
+#center-div {
+  padding: 20px 0px 20px 0px;
+  background: rgba(256,256,256,.5);
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px 1px #888888;
+  overflow: hidden;
+  width: 100%;
+}
+
+.access-button {
+  height: 100%;
+  width: 33%;
+  float: left;
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif; font-size: 8px;
+}
+
+h1 { font-family: 'Helvetica Neue', sans-serif; font-size: 60px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+h2 { #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+p { font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
