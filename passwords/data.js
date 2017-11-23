@@ -1,0 +1,1 @@
+var data = [{site:"Site1", password:"U2FsdGVkX18WIxNvlI6S3+HG7glATJgAcY6xPTf+KSY="},{site:"Site2", password:"U2FsdGVkX18xNX4OjGmcjvBQs0zp2nBZ09jpXJltgBE="},{site:"Site3", password:"U2FsdGVkX18mlygZYc7KUqWE9uIKdFO9WtFvsVXrkwo"}];
